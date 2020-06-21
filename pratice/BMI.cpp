@@ -4,6 +4,7 @@ BMI::BMI()
 {
 
 }
+//新增一個空函式
 
 BMI::BMI(double _h, double _w)
 {
