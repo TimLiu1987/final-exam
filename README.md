@@ -71,6 +71,3 @@ Canary薪水比Candy低
 Canary薪水比Mary低
 Mary薪水比Candy低
 
-
-
-期末考試練習
